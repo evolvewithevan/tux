@@ -2,21 +2,8 @@
 
 ## A Discord bot for the All Things Linux Discord server
 
-<div align="center">
-    <p align="center">
-        <a href="https://github.com/allthingslinux/tux/forks">
-            <img alt="Forks" src="https://img.shields.io/github/commit-activity/m/allthingslinux/tux?style=for-the-badge&logo=git&color=EBA0AC&logoColor=EBA0AC&labelColor=302D41"></a>
-        <a href="https://github.com/allthingslinux/tux">
-            <img alt="Repo size" src="https://img.shields.io/github/repo-size/allthingslinux/tux?style=for-the-badge&logo=github&color=FAB387&logoColor=FAB387&labelColor=302D41"/></a>
-        <a href="https://github.com/allthingslinux/tux/issues">
-            <img alt="Issues" src="https://img.shields.io/github/issues/allthingslinux/tux?style=for-the-badge&logo=githubactions&color=F9E2AF&logoColor=F9E2AF&labelColor=302D41"></a>
-        <a href="https://discord.gg/linux">
-            <img alt="Discord" src="https://img.shields.io/discord/1172245377395728464?style=for-the-badge&logo=discord&color=B4BEFE&logoColor=B4BEFE&labelColor=302D41"></a>
-    </p>
-</div>
-
 > [!WARNING]
-**This bot is still a work in progress and issues are expected. If you self-host our bot please join our support server [here](https://discord.gg/gpmSjcjQxg) for announcements and support.**
+**This Fork was utilized for Personal Learning opportunities. It is not, nor was ever intended for public use. To read more about my learning, see [This Repo](https://example.com). Everything below this warning is left as it was when last utilized. **
 
 ## About
 
