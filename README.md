@@ -1,5 +1,5 @@
 > [!WARNING]
-**This Fork was utilized for Personal Learning opportunities. It is not, nor was ever intended for public use. To read more about my learning, see [This Repo](https://example.com). Everything below this warning is left as it was when last utilized. **
+**This Fork was utilized for Personal Learning opportunities. It is not, nor was ever intended for public use. To read more about my learning, see [This Repo](https://example.com). Everything below this warning is left as it was when last utilized.**
 
 # Tux
 
